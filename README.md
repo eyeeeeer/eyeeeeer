@@ -5,6 +5,11 @@ I am a student from Ukraine who is engaged in programming and writes his project
 
 - 🔭 Right now I'm mainly working on **Discord** bots and sites for them.
 
+## Programming languages that I study
+- JavaScript
+- TypeScript
+- Python
+
 <!--
 
 Here are some ideas to get you started:
