@@ -18,6 +18,19 @@ Now I practically do not work on Open Source projects, but at the same time I wr
 - [Campfire Discord Bot](https://campfire.eyercord.com/)
 - [EYERCORD](https://eyercord.com)
 
+## Technologies and libraries with which I worked
+### CSS Frameworks
+- [**TailwindCSS**](https://github.com/tailwindlabs/tailwindcss)
+- [**Bootstrap**](https://github.com/twbs/bootstrap)
+### Node.js Libraries
+- [**discord.js**](https://github.com/discordjs/discord.js)
+- [**express.js**](https://github.com/expressjs/express)
+- [**mongoose**](https://github.com/Automattic/mongoose)
+- [**express-handlebars**](https://github.com/ericf/express-handlebars)
+- [**ejs**](https://github.com/mde/ejs)
+- [**Electron**](https://github.com/electron/electron)
+- [**React**](https://github.com/facebook/react)
+
 <!--
 
 Here are some ideas to get you started:
