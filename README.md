@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Alex 👋
+
+I am a student from Ukraine who is engaged in programming and writes his projects. I am currently learning some programming languages and also writing a lot of projects in **JavaScript**. Mostly now I develop websites and bots for the **Discord** messenger, but I am also a little familiar with technologies such as **electron.js** and **React Native**, but I have not written applications for them yet...
+
+- 🔭 Right now I'm mainly working on **Discord** bots and sites for them.
 
 <!--
-**eyeeeeer/eyeeeeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
