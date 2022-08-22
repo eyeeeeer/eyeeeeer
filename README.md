@@ -6,7 +6,7 @@ I am a student from Ukraine who is engaged in programming and writes his project
 - 🔭 Right now I'm mainly working on **Discord** bots and sites for them.
 
 ## Programming languages that I study
-- <img src="./svg/JavaScript.svg"> JavaScript
+- <img src="./svg/JavaScript.svg" width="16px" height="16px"> JavaScript
 - TypeScript
 - Python
 
