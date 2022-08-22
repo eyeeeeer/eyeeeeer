@@ -15,8 +15,8 @@ At the beginning of 2020, I began to learn programming on my own in JavaScript, 
 
 ## Projects
 Now I practically do not work on Open Source projects, but at the same time I write closed source projects that are available for anyone to use! Here is some of them:
-- [Campfire Discord Bot](https://campfire.eyercord.com/)
-- [EYERCORD](https://eyercord.com)
+- [**Campfire Discord Bot**](https://campfire.eyercord.com/)
+- [**EYERCORD Website**](https://eyercord.com)
 
 ## Technologies and libraries with which I worked
 ### CSS Frameworks
