@@ -10,6 +10,14 @@ I am a student from Ukraine who is engaged in programming and writes his project
 - TypeScript
 - Python
 
+## Skills
+At the beginning of 2020, I began to learn programming on my own in JavaScript, which I still write. At the end of 2021, I started learning Python minimally, but I haven't written anything in it yet. Somewhere since March 2022, I decided to learn TypeScript more and now I am actively engaged in this.
+
+## Projects
+Now I practically do not work on Open Source projects, but at the same time I write closed source projects that are available for anyone to use! Here is some of them:
+- https://campfile.eyercord.com/ : Campfire Discord Bot
+- https://eyercord.com/ : EYERCORD Website
+
 <!--
 
 Here are some ideas to get you started:
