@@ -34,6 +34,6 @@ Now I practically do not work on Open Source projects, but at the same time I wr
 ## Social
 You can write to me on one of these social networks:
 - <img src="./svg/Instagram.svg" width="22px" height="22px"> [**Instagram**](https://www.instagram.com/eyeeeeer.__/)
-- <img src="./svg/Discord.svg" width="22px" height="22px"> **Discord** : `eyeeeeer#0001`
+- <img src="./svg/Discord.svg" width="22px" height="22px"> **Discord** : `@eyeeeeer`
 - <img src="./svg/Mail.svg" width="22px" height="22px"> [**Email**](mailto:alexkononuchenko@icloud.com)
 - <img src="./svg/Telegram.svg" width="22px" height="22px"> [**Telegram**](https://t.me/eyeeeeer)
