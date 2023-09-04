@@ -15,7 +15,7 @@ I am a student from Ukraine who is engaged in programming and writes his project
 At the beginning of 2020, I began to learn programming on my own in JavaScript, which I still write. At the end of 2021, I started learning Python minimally, but I haven't written anything in it yet. Somewhere since March 2022, I decided to learn TypeScript more and now I am actively engaged in this.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,androidstudio,atom,au,aws,blender,bootstrap,cloudflare,css,discord,bots,django,express,figma,firebase,flask,git,github,githubactions,go,heroku,html,idea,instagram,js,jquery,linux,md,mongodb,mysql,nextjs,nodejs,nuxtjs,ps,php,postgres,postman,pr,pug,py,react,replit,stackoverflow,styledcomponents,supabase,sentry,svg,tailwind,twitter,ts,vercel,vscode,vue,wordpress,workers,xd&perline=6" />
+    <img src="https://skillicons.dev/icons?i=ae,androidstudio,atom,au,aws,blender,bootstrap,cloudflare,css,discord,bots,django,express,figma,firebase,flask,git,github,githubactions,go,heroku,html,idea,instagram,js,jquery,linux,md,mongodb,mysql,nextjs,nodejs,nuxtjs,ps,php,postgres,postman,pr,pug,py,react,replit,stackoverflow,styledcomponents,supabase,sentry,svg,tailwind,twitter,ts,vercel,vscode,vue,wordpress,workers,xd&perline=10" />
   </a>
 </p>
 
