@@ -11,6 +11,8 @@ I am a student from Ukraine who is engaged in programming and writes his project
 - <img src="./svg/Python.svg" width="22px" height="22px"> Python
 - <img src="./svg/golang.svg" width="22px" height="22px"> Go (Golang)
 
+<figure><embed src="https://wakatime.com/share/@c5046823-4e6d-4b42-bcf4-44a1f8d3a89a/d976ca50-afdb-419b-9317-5ff5b6fa863c.svg"></embed></figure>
+
 ## Skills
 At the beginning of 2020, I began to learn programming on my own in JavaScript, which I still write. At the end of 2021, I started learning Python minimally, but I haven't written anything in it yet. Somewhere since March 2022, I decided to learn TypeScript more and now I am actively engaged in this.
 <p align="center">
